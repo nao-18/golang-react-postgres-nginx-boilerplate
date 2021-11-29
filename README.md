@@ -1,4 +1,4 @@
-# golang-rest-api
+# golang-react-postgres-nginx-boilerplate 
 
 ## ビルドコマンド
 ~~~bash
